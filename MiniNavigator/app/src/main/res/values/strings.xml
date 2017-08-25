@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MiNI Navigator</string>
+
+    <string name="dummy">dummy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawerMenu_trackMe">Localize me</string>
+    <string name="drawerMenu_trackSomeone">Localize a friend</string>
+    <string name="drawerMenu_history">History</string>
+    <string name="drawerMenu_wifiData">WiFi data</string>
+
+    <string name="button_openMapActivity">Start</string>
+    <string name="button_openSettingsActivity">Settings</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="pref_gisServiceAddress_title">Gis Service address</string>
+    <string name="pref_gisServiceAddress_default">http://gisservice.azurewebsites.net/GisService.asmx</string>
+
+    <string name="title_activity_map">MapActivity</string>
+    <string name="label_yourPositionIs">Your position:</string>
+    <string name="label_enterNickname">Enter your nickname:</string>
+    <string name="title_activity_wifi_data">WifiDataActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+
+    <string name="label_wifiData">Collected WiFi data:</string>
+    
+</resources>

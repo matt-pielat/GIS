@@ -1,0 +1,112 @@
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\obj\Debug\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\obj\Debug\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\DynamicInterop.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\Interfaces.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\RandomForestPredictor.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\RDotNet.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\obj\Debug\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\obj\Debug\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\Lenna.png
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\Lenna.png
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\GisService.dll.config
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\GisService.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\GisService.pdb
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\DynamicInterop.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\Interfaces.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\RandomForestPredictor.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\RDotNet.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\obj\Debug\GisService.csprojResolveAssemblyReference.cache
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\obj\Debug\GisService.Properties.Resources.resources
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\obj\Debug\GisService.csproj.GenerateResource.Cache
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\obj\Debug\GisService.dll
+C:\Users\kuzmichp\Desktop\GiSService\GisService\GisService\obj\Debug\GisService.pdb
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\Lenna.png
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\GisService.dll.config
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\GisService.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\GisService.pdb
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\DynamicInterop.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\Interfaces.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\RandomForestPredictor.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\RDotNet.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\obj\Debug\GisService.csprojResolveAssemblyReference.cache
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\obj\Debug\GisService.Properties.Resources.resources
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\obj\Debug\GisService.csproj.GenerateResource.Cache
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\obj\Debug\GisService.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\obj\Debug\GisService.pdb
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\EntityFramework.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\EntityFramework.SqlServer.dll
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\EntityFramework.xml
+C:\Users\kuzmichp\Source\Repos\gisservice\GisService\GisService\bin\EntityFramework.SqlServer.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\obj\Debug\GisService.csprojResolveAssemblyReference.cache
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\obj\Debug\GisService.Properties.Resources.resources
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\obj\Debug\GisService.csproj.GenerateResource.Cache
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\obj\Debug\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\Lenna.png
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\DynamicInterop.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\EntityFramework.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\EntityFramework.SqlServer.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\Interfaces.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\RandomForestPredictor.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\RDotNet.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\EntityFramework.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\bin\EntityFramework.SqlServer.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\obj\Debug\GisService.pdb
+C:\Users\kuzmichp\Desktop\GisService\GisService\GisService\bin\EntityFramework.dll
+C:\Users\kuzmichp\Desktop\GisService\GisService\GisService\bin\EntityFramework.SqlServer.dll
+C:\Users\kuzmichp\Desktop\GisService\GisService\GisService\bin\EntityFramework.xml
+C:\Users\kuzmichp\Desktop\GisService\GisService\GisService\bin\EntityFramework.SqlServer.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\Lenna.png
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\DynamicInterop.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\EntityFramework.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\EntityFramework.SqlServer.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\Interfaces.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\RandomForestPredictor.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\RDotNet.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\EntityFramework.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\bin\EntityFramework.SqlServer.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\obj\Debug\GisService.Properties.Resources.resources
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\obj\Debug\GisService.csproj.GenerateResource.Cache
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\obj\Debug\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\obj\Debug\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\servicezip\GisService\GisService\GisService\GisService\obj\Debug\GisService.csprojResolveAssemblyReference.cache
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\Lenna.png
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\DynamicInterop.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\EntityFramework.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\EntityFramework.SqlServer.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\Interfaces.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\RandomForestPredictor.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\RDotNet.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\EntityFramework.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\bin\EntityFramework.SqlServer.xml
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\obj\Debug\GisService.Properties.Resources.resources
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\obj\Debug\GisService.csproj.GenerateResource.Cache
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\obj\Debug\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\obj\Debug\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\gisservicemercurial\GisService\GisService\obj\Debug\GisService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,92 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pl.pw.mini.mininavigator.activities.MapActivity">
+
+    <!-- The main content view -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/background_floating_material_dark"
+            android:padding="8dp">
+
+            <TextView
+                android:id="@+id/trackingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/dummy"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/primary_text_default_material_dark" />
+
+            <TextView
+                android:id="@+id/coordsTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/trackingTextView"
+                android:layout_centerHorizontal="true"
+                android:text="@string/dummy"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/primary_text_default_material_dark" />
+
+            <TextView
+                android:id="@+id/nicknameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/coordsTextView"
+                android:text="@string/dummy"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/primary_text_default_material_dark" />
+
+            <TextView
+                android:id="@+id/floorTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/coordsTextView"
+                android:text="@string/dummy"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/primary_text_default_material_dark" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/mapImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:scaleType="centerCrop"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/relativeLayout"/>
+
+    </RelativeLayout>
+
+    <!-- The navigation drawer -->
+    <RelativeLayout
+        android:id="@+id/leftDrawer"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#ffffffff"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp">
+
+        <ListView
+            android:id="@+id/leftMenuListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+</android.support.v4.widget.DrawerLayout>

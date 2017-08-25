@@ -1,0 +1,17 @@
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\obj\Release\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisService\GisService\obj\Release\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\GisService.dll.config
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\DynamicInterop.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\Interfaces.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\ParticleFilter.Logic.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\RandomForestPredictor.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\RDotNet.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\bin\RDotNet.NativeLibrary.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\obj\Release\GisService.dll
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\obj\Release\GisService.pdb
+C:\OneDrive\Zenbook\Desktop\Sem 6 moj\GIS\GisServiceRepo\GisService\GisService\obj\Release\GisService.csprojResolveAssemblyReference.cache
